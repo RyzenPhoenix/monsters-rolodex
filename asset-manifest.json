@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RyzenPhoenix/monsters-rolodex.git/static/css/main.ca1f5b19.chunk.css",
+    "main.js": "/RyzenPhoenix/monsters-rolodex.git/static/js/main.ae41dfd5.chunk.js",
+    "main.js.map": "/RyzenPhoenix/monsters-rolodex.git/static/js/main.ae41dfd5.chunk.js.map",
+    "runtime-main.js": "/RyzenPhoenix/monsters-rolodex.git/static/js/runtime-main.88238535.js",
+    "runtime-main.js.map": "/RyzenPhoenix/monsters-rolodex.git/static/js/runtime-main.88238535.js.map",
+    "static/js/2.743303ce.chunk.js": "/RyzenPhoenix/monsters-rolodex.git/static/js/2.743303ce.chunk.js",
+    "static/js/2.743303ce.chunk.js.map": "/RyzenPhoenix/monsters-rolodex.git/static/js/2.743303ce.chunk.js.map",
+    "static/js/3.7d037c68.chunk.js": "/RyzenPhoenix/monsters-rolodex.git/static/js/3.7d037c68.chunk.js",
+    "static/js/3.7d037c68.chunk.js.map": "/RyzenPhoenix/monsters-rolodex.git/static/js/3.7d037c68.chunk.js.map",
+    "index.html": "/RyzenPhoenix/monsters-rolodex.git/index.html",
+    "static/css/main.ca1f5b19.chunk.css.map": "/RyzenPhoenix/monsters-rolodex.git/static/css/main.ca1f5b19.chunk.css.map",
+    "static/js/2.743303ce.chunk.js.LICENSE.txt": "/RyzenPhoenix/monsters-rolodex.git/static/js/2.743303ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88238535.js",
+    "static/js/2.743303ce.chunk.js",
+    "static/css/main.ca1f5b19.chunk.css",
+    "static/js/main.ae41dfd5.chunk.js"
+  ]
+}
